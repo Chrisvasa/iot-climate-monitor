@@ -1,0 +1,4 @@
+.pio
+include/secrets.h
+.vscode/*
+sdkconfig.esp32-c3-devkitc-02
